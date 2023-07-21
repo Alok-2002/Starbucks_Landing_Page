@@ -66,6 +66,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 We hope you enjoy exploring the Starbucks Landing Page! If you have any questions or need further assistance, feel free to contact us.
 
 ## Contact:  
-**Alok Sharma**
-[sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com)
-[Website](https://soulfulscribbles.tech/)
+- **Alok Sharma**
+- [sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com)
+- [Website](https://soulfulscribbles.tech/)
