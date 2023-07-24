@@ -17,7 +17,7 @@ This repository contains a Starbucks landing page created using HTML, CSS, and J
 
 ## Demo
 
-Here's a live demo of the Starbucks landing page: [Starbucks Landing Page Demo](https://your-demo-link.com)
+Here's a live demo of the Starbucks landing page: [Starbucks Landing Page Demo](https://starbucks-landing-page-alok-2002.vercel.app)
 
 ## Features
 
