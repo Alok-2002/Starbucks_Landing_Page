@@ -1,6 +1,7 @@
 # Starbucks Landing Page
 
-![Starbucks Landing Page](screenshot.png)
+![image](https://github.com/Alok-2002/Starbucks_Landing_Page/assets/93814546/402704da-8385-49e9-b720-a235a468ddc1)
+
 
 This repository contains a Starbucks landing page created using HTML, CSS, and JavaScript. The landing page is designed to showcase the Starbucks brand and provide users with an interactive and visually appealing experience.
 
